@@ -17,6 +17,8 @@ This repository documents my hands-on journey to becoming a SOC (Security Operat
 
 To gain practical, job-ready cybersecurity skills by simulating real SOC environments and analyzing security incidents.
 
+This repository is structured to reflect real-world SOC workflows and responsibilities.
+
 ---
 
 ## Repository Structure
