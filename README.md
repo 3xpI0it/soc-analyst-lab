@@ -22,7 +22,7 @@ This repository is structured to reflect real-world SOC workflows and responsibi
 ---
 
 ## Repository Structure
-
+```
 SOC/
 ├── Lab-Setup/
 ├── Monitoring/
@@ -37,8 +37,14 @@ Malware-Analysis/
 ├── Analysis-Reports/
 
 Notes/
-
+```
 ---
+
+## Status
+
+- Environment setup: Completed  
+- Virtual machine setup: Pending  
+- SOC lab execution: Pending  
 
 ## Author
 
