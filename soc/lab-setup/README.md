@@ -1,13 +1,24 @@
-# Lab Setup
+# SOC Lab Setup
 
-This section covers the setup of the SOC lab environment.
+This section covers the setup of environments used for SOC analysis.
 
-## Includes
+## Purpose
 
-- Virtual machine installation
-- Operating system setup
-- Basic network configuration
+- Prepare lab environment  
+- Configure tools and systems  
+- Simulate real-world SOC setups  
+
+---
+
+## Approach
+
+Focus on:
+- reproducible setups  
+- practical configurations  
+- learning by doing  
+
+---
 
 ## Goal
 
-To build a working environment for SOC analysis and testing.
+Create a functional SOC lab for analysis and practice.
